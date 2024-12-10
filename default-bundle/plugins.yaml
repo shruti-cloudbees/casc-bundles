@@ -9,3 +9,4 @@ plugins:
   - id: pipeline-groovy-lib
   - id: bitbucket
   - id: beer
+  - id: cloudbees-disk-usage-simple
