@@ -8,3 +8,4 @@ plugins:
   - id: operations-center-cloud
   - id: pipeline-groovy-lib
   - id: bitbucket
+  - id: beer
